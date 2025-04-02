@@ -1,0 +1,14 @@
+name: ors-env
+channels:
+  - conda-forge
+  - michaelsjp
+dependencies:
+  - numpy=1.26.4
+  - scipy
+  - folium
+  - pulp
+  - statsmodels
+  - matplotlib
+  - pandas
+  - openrouteservice
+  - ipykernel
